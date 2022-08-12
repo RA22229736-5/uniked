@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uniked
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning tech system
+- 🌱 I’m currently learning tech web system
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
