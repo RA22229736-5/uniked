@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uniked
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning tech web system
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web system tech 
+- 💞️ I’m looking to collaborate on voluntier in IT
 - 📫 How to reach me ...
 
 <!---
