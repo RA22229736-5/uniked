@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uniked
+- 👋 Hi, I’m @uniked - Kédma
 - 👀 I’m interested in tech
 - 🌱 I'm currently learning web systems technology and I'm an Academic in Internet Systems Unicesumar Maringá-PR
 - 💞️ I’m looking to collaborate as an IT volunteer at any institution.
